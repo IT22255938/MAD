@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TaskTracker</string>
+    <string name="notes">Today Task</string>
+    <string name="edit">Update Task</string>
+    <string name="enter_the_title">Enter the title</string>
+    <string name="enter_the_description">Enter the description</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="add">Add Task</string>
+    <string name="welcome">WELCOME</string>
+    <string name="task">Today Task</string>
+</resources>
